@@ -1,3 +1,4 @@
+
 # END-TO-END-DATA-SCIENCE-PROJECT
 
 COMPANY: CODTECH IT SOLUTIONS
@@ -92,4 +93,8 @@ Flask – Web API framework
 Render – (Optional) Free cloud deployment
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/41fc2be7-e51b-4429-bf14-ca6d9abd7092)
+
+![Image](https://github.com/user-attachments/assets/b83a05b4-c364-4fe9-b857-c56ab6371831)
 
